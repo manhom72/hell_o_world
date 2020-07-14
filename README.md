@@ -3,4 +3,5 @@ learning Github basics
 
 Hi there!
 
-I just arrived to Earth from outer space and I just found this mess!
+This is a very popular thing here on Earth!
+I'd like to learn more about it!
